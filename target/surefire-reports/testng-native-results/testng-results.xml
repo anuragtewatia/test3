@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-30T15:47:52 IST" name="Surefire suite" finished-at="2023-09-30T15:48:11 IST" duration-ms="18285">
+    <groups>
+    </groups>
+    <test started-at="2023-09-30T15:47:52 IST" name="Surefire test" finished-at="2023-09-30T15:48:11 IST" duration-ms="18285">
+      <class name="tests.FirstTest">
+        <test-method signature="testAuthentication()[pri:1, instance:tests.FirstTest@4ce7fffa]" started-at="2023-09-30T15:47:52 IST" name="testAuthentication" finished-at="2023-09-30T15:47:57 IST" duration-ms="4386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAuthentication -->
+        <test-method signature="createBookingTest()[pri:2, instance:tests.FirstTest@4ce7fffa]" started-at="2023-09-30T15:47:57 IST" name="createBookingTest" finished-at="2023-09-30T15:47:59 IST" duration-ms="1979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBookingTest -->
+        <test-method signature="updateBookingTest()[pri:3, instance:tests.FirstTest@4ce7fffa]" started-at="2023-09-30T15:47:59 IST" name="updateBookingTest" finished-at="2023-09-30T15:48:01 IST" duration-ms="2245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBookingTest -->
+        <test-method signature="getBookingTest()[pri:4, instance:tests.FirstTest@4ce7fffa]" started-at="2023-09-30T15:48:01 IST" name="getBookingTest" finished-at="2023-09-30T15:48:03 IST" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingTest -->
+      </class> <!-- tests.FirstTest -->
+      <class name="tests.SecondTest">
+        <test-method signature="testAuthentication()[pri:1, instance:tests.SecondTest@497486b3]" started-at="2023-09-30T15:48:03 IST" name="testAuthentication" finished-at="2023-09-30T15:48:05 IST" duration-ms="1597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAuthentication -->
+        <test-method signature="createBookingTest()[pri:2, instance:tests.SecondTest@497486b3]" started-at="2023-09-30T15:48:05 IST" name="createBookingTest" finished-at="2023-09-30T15:48:07 IST" duration-ms="2308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBookingTest -->
+        <test-method signature="patchBookingTest()[pri:3, instance:tests.SecondTest@497486b3]" started-at="2023-09-30T15:48:07 IST" name="patchBookingTest" finished-at="2023-09-30T15:48:09 IST" duration-ms="1527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchBookingTest -->
+        <test-method signature="deleteBookingTest()[pri:4, instance:tests.SecondTest@497486b3]" started-at="2023-09-30T15:48:09 IST" name="deleteBookingTest" finished-at="2023-09-30T15:48:11 IST" duration-ms="1948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBookingTest -->
+      </class> <!-- tests.SecondTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -203,3 +203,19 @@
 [INFO ] 2023-09-30 03:48:08.143 [main] FirstTest - Partial update booking successfully completed.
 [INFO ] 2023-09-30 03:48:08.148 [main] FirstTest - Delete booking Started..
 [INFO ] 2023-09-30 03:48:09.439 [main] FirstTest - Delete booking successfully completed.
+[INFO ] 2023-09-30 15:47:52.943 [main] FirstTest - Authentication Started..
+[INFO ] 2023-09-30 15:47:57.194 [main] FirstTest - Authentication successfully completed.
+[INFO ] 2023-09-30 15:47:57.204 [main] FirstTest - Creating new booking started..
+[INFO ] 2023-09-30 15:47:59.183 [main] FirstTest - New booking successfully completed.
+[INFO ] 2023-09-30 15:47:59.198 [main] FirstTest - Update booking started..
+[INFO ] 2023-09-30 15:48:01.443 [main] FirstTest - Update booking successfully completed.
+[INFO ] 2023-09-30 15:48:01.443 [main] FirstTest - Get booking started..
+[INFO ] 2023-09-30 15:48:03.124 [main] FirstTest - Get booking successfully completed.
+[INFO ] 2023-09-30 15:48:03.698 [main] FirstTest - Authentication Started..
+[INFO ] 2023-09-30 15:48:05.294 [main] FirstTest - Authentication successfully completed.
+[INFO ] 2023-09-30 15:48:05.295 [main] FirstTest - Add booking Started..
+[INFO ] 2023-09-30 15:48:07.603 [main] FirstTest - Add booking successfully completed.
+[INFO ] 2023-09-30 15:48:07.614 [main] FirstTest - Partial update booking Started..
+[INFO ] 2023-09-30 15:48:09.141 [main] FirstTest - Partial update booking successfully completed.
+[INFO ] 2023-09-30 15:48:09.141 [main] FirstTest - Delete booking Started..
+[INFO ] 2023-09-30 15:48:10.962 [main] FirstTest - Delete booking successfully completed.
